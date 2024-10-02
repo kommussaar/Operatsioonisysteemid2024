@@ -1,2 +1,2 @@
-# Praktikum2: Unixi käsurida
+# Praktikum 2: Unixi käsurida
 
