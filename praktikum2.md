@@ -1,3 +1,2 @@
-#Praktikum2 - Unixi käsurida
-
+#Praktikum2_Unixi_käsurida
 
