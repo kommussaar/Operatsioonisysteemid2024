@@ -1,4 +1,4 @@
-# Praktikum1: Virtualbox ja Windowsi paigaldus
+# Praktikum 1: Virtualbox ja Windowsi paigaldus
 
 
 Tegu oli aine esimese praktikumiga. Praktikumi käigus installeerisin arvutisse Oracle VirtualBox virtualiseerimistarkvara, kuhu paigaldasin uue virtuaalmasina ning seadistasin sinna eestikeelse Windows 11 operatsioonisüsteemi. Paigaldatud operatsioonisüsteemi legaliseerisin, kasutades KMS (Key Management Service) client key tootevõtit. Lisaks kohandasin ja seadistasin Windows 11 keskkonda vastavalt praktikumijuhendile. Kokku kulus praktikumi sooritamiseks umbes 6 tundi, mille käigus sai ise palju uut infot ise juurde otsitud, miks ja kuidas midagi töötab, ning samuti esimene tutvumine _markdown_ nimelise tekstivormindamistööristaga. Allpool on ka pildid lõpptulemusest.
