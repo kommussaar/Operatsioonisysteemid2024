@@ -1,5 +1,7 @@
 # Praktikum 6: Protsessid ja signaalid
 
+6. praktikumis toimus esmane tutvumine protsesside ning signaalidega. Õppisin kuidas protsessi käivitada, taustal käivitada, protsessi töö lõpetada, tema töö peatada, uuesti aktiveerida, kuidas protsesse lõpetada, mis asi on vanem- ja lapsprotsess, kuidas protsessidele signaale saata ning milliseid singaale millal oleks mõistlik kasutada. Samuti õppisin, kuidas toimivad protsessi väljundid ja sisendid ning kuidas nendega vastavalt ümber käia. Allpool on praktikumis valminud tulemus.
+
 Ülesanne 1:
 ![image](https://github.com/user-attachments/assets/0f27e552-c084-46bb-84da-75a48a951fea)
 Ülesanne 2: 
