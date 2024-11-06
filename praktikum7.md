@@ -1,3 +1,5 @@
-## Miks kettad vajavad lähtestamist?
+Miks andmekandjad vajavad lähtestamist?
 
-Kettad vajavad lähtestamist, et arvuti saaks neid kasutama hakata. Kui uus ketas esmakordselt ühendatakse, on see nagu tühi tahvel ilma juhisteta. Lähtestamine seab üles põhisüsteemi, mis aitab arvutil mõista, kuhu faile salvestada ja kuidas neid hiljem leida. Ilma selle sammuta ei oskaks arvuti ketast üldse kasutada.
+Andmekandjate, nagu kõvaketaste ja SSD-de, lähtestamine on vajalik, et neid saaks arvutis kasutada ja neile faile salvestada. Uus andmekandja on justkui tühi leht, millel puuduvad failide salvestamiseks vajalikud struktuurid ja juhised. Lähtestamisel luuakse sellele struktuur, mis aitab arvutil mõista, kuidas andmeid kettal korraldada ja vajadusel üles leida.
+
+Lähtestamisega valitakse ka partitsioonitabeli tüüp (näiteks GPT või MBR), mis määrab ära, kuidas kettal olevaid sektsioone ehk partitsioone hallatakse. Ilma lähtestamiseta ei tunne operatsioonisüsteem ära, kuidas ketast kasutada, ning seega jääks see salvestusruum tühjaks ja kasutuskõlbmatuks.
