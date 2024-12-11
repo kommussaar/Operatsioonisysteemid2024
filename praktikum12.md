@@ -20,3 +20,25 @@ fi
 done```
 
 ül 4 ekraanivaade: ![image](https://github.com/user-attachments/assets/503d59ce-682b-4487-ab54-2945380c8ffb)
+
+
+ül 6 kood: ```#!/bin/bash
+
+eksponendi_fuktsioon() {
+    baas=$1
+    eksponent=$2
+    tulemus=1
+
+    while [ $eksponent -gt 0 ]; do
+        tulemus=$((tulemus*baas))
+        eksponent=$((eksponent-1))
+    done
+
+    echo "Tulemus: $tulemus"
+}
+
+
+
+eksponendi_fuktsioon 9 5```
+
+ül 6 ekraanivaade: ![image](https://github.com/user-attachments/assets/dc168a92-fdca-43bb-89dd-bf65a58238fe)
