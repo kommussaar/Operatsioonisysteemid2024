@@ -16,8 +16,7 @@ echo "Teie matriklinumber on $matriklinumber"```
 ül 4 ekraanivaade: ![image](https://github.com/user-attachments/assets/503d59ce-682b-4487-ab54-2945380c8ffb)
 
 
-ül 6 kood: 
-```#!/bin/bash
+ül 6 kood: ```#!/bin/bash
 
 eksponendi_fuktsioon() {
     baas=$1
