@@ -1,3 +1,9 @@
+12. praktikumis õppisin põhilist skriptimist Linuxis. Tulemus on näha allpool
+
+
+
+
+
 Ül 3 kood:  #!/bin/sh
 echo "Tere, mis on teie nimi?:"
 read kasutaja_nimi
@@ -41,6 +47,33 @@ eksponendi_fuktsioon() {
 
 
 eksponendi_fuktsioon 9 5
+
+ül 5 kood: #!/bin/bash
+
+# Kontrollime, kas on antud argument (protsessi nimi)
+if [ -z "$1" ]; then
+  echo "Palun sisestage protsessi nimi!"
+  exit 1
+fi
+
+# Käivitame ps -A ja filtreerime otsitava protsessi nime grep abil
+ps -A | while read line
+do
+    # Eemaldame liigsed tühikud
+    processed_line=$(echo "$line" | tr -s ' ')
+
+    # Eraldame PID ja ülejäänud osa (protsessi nimi)
+    pid=$(echo "$processed_line" | cut -d ' ' -f1)
+    process_name=$(echo "$processed_line" | cut -d ' ' -f4-)
+
+    # Kui protsessi nimi sisaldab otsitavat nime, siis väljastame PID ja nime
+    if [[ "$process_name" == *"$1"* ]]; then
+        echo "PID: $pid, Protsessi nimi: $process_name"
+    fi
+done
+
+ül 5 ekraanivaade: ![image](https://github.com/user-attachments/assets/8c24e974-2c6d-4fe9-8f94-0f374de54aed)
+
 
 ül 6 ekraanivaade: ![image](https://github.com/user-attachments/assets/dc168a92-fdca-43bb-89dd-bf65a58238fe)
 
