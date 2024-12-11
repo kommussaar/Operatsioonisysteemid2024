@@ -43,3 +43,11 @@ eksponendi_fuktsioon() {
 eksponendi_fuktsioon 9 5
 
 ül 6 ekraanivaade: ![image](https://github.com/user-attachments/assets/dc168a92-fdca-43bb-89dd-bf65a58238fe)
+
+ül 7 ekraanivaade: ![image](https://github.com/user-attachments/assets/b9bcd710-648b-4bc2-82b6-c687ef383672)
+![image](https://github.com/user-attachments/assets/e45ef06f-492b-4981-bfc8-37729a6e2ff1)
+![image](https://github.com/user-attachments/assets/f15052f6-5172-4d78-b9cf-69b13861ed59)
+
+
+
+
