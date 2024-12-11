@@ -14,9 +14,9 @@ echo "Teie matriklinumber on $matriklinumber"```
 Ül 4 kood: ```#!/bin/bash
 
 for i in *.$1; do
-    if [ -f "$i" ]; then
-        mv "$i" "${i/$1/$2}"
-    fi
+if [ -f "$i" ]; then
+mv "$i" "${i/$1/$2}"
+fi
 done```
 
 ül 4 ekraanivaade: ![image](https://github.com/user-attachments/assets/503d59ce-682b-4487-ab54-2945380c8ffb)
