@@ -11,7 +11,8 @@ echo "Teie matriklinumber on $matriklinumber"```
 
 Ül 3 ekraanivaade: ![image](https://github.com/user-attachments/assets/41c3f904-3d95-404f-be46-a43e6712f93f)
 
-Ül 4 kood: ```#!/bin/bash
+Ül 4 kood: 
+```#!/bin/bash
 
 for i in *.$1; do
 if [ -f "$i" ]; then
@@ -22,7 +23,8 @@ done```
 ül 4 ekraanivaade: ![image](https://github.com/user-attachments/assets/503d59ce-682b-4487-ab54-2945380c8ffb)
 
 
-ül 6 kood: ```#!/bin/bash
+ül 6 kood: 
+```#!/bin/bash
 
 eksponendi_fuktsioon() {
     baas=$1
