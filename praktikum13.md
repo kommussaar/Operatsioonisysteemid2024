@@ -198,9 +198,26 @@ RuntimeBroker      8340 25.12.2024 21:14:12
 
 10.		Arvuti kuupäev ja kellaaeg::	12/25/2024 23:51:59
 ```
+Ülevaade skrptist: Skriptis kasutatakse funktsiooni valjasta, mis vastutab andmete töötlemise ja salvestamise eest. Selle põhieesmärk on:
 
+Väljastada informatsioon PowerShelli konsoolile.
+Salvestada sama informatsioon faili valjund.txt
 
+Parameetrid:
+$nr: Küsimuse number (skriptis olev viide konkreetsele ülesandele).
+$param: Väljastatava andme tüübi kirjeldus.
+$sisu: Andmed, mida väljastatakse.
 
+Olulised funktsiooni osad: 
+
+Nullväärtuste kontroll: Kui $sisu on null, kirjutatakse konsooli ja faili "NULL".
+Objekti kontroll: Kui $sisu on objektimassiiv (näiteks mitu väärtust korraga), salvestatakse iga väärtus eraldi.
+Üksiku väärtuse käsitlemine: Kui $sisu on üksik väärtus, lisatakse see konsooli ja faili.
+
+Igale käsule eelnen märksõna/lause selgituseks, mille kohta infot soovime
+
+Skript genereerib faili valjund.txt, kuhu salvestatakse kõik ülesannete vastused.
+Faili struktuur: iga küsimuse vastus koosneb kolmest osast: küsimuse number, parameetri kirjeldus ja väljundväärtus.
 
 
 
