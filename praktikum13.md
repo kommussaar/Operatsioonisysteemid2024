@@ -57,7 +57,9 @@ Valjasta 10 "Arvuti kuupäev ja kellaaeg:" (Get-Date)
 
 Väljung (png): ![image](https://github.com/user-attachments/assets/2a5407e3-d4ae-4fbe-b6f3-d2b8b94bda8f)![image](https://github.com/user-attachments/assets/851908d4-73e0-40c4-806c-c0c352620721)
 
-```1.1.		Kohalik host::	KOMMUSSAAR-W11
+Väljund:
+```
+1.1.		Kohalik host::	KOMMUSSAAR-W11
 1.2.		PowerShelli versioon:	5.1.22621.4391
 1.3.		Windowsi versioon:	10.0.22631
 2.		Võrgu konfiguratsioon (IP-aadress, võrgumask (network mask), gateway, kas DHCP on lubatud ja MAC-aadress::
