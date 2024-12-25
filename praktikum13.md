@@ -7,7 +7,9 @@ Käesolevas praktikumis sain tuttavaks Windows PowerShell-iga (Microsofti ülesa
 
 Skript (png): ![image](https://github.com/user-attachments/assets/9a14d9ff-bc1b-4d0a-bdbd-ecbb69807ccf)
 
-Skript: #$nr:	küsimuse number
+Skript: 
+```
+#$nr:	küsimuse number
 #$param: mis parameetriga tegemist (võimalikult lühidalt)
 #$sisu:	väljastatav sisu
 function valjasta{
@@ -54,7 +56,7 @@ Valjasta 8 "Käimasolevate protsesside arv:" ((Get-Process).count)
 Valjasta 9 "10 viimasena käivitatud protsessi (nimi, PID ja käivitamise aeg (StartTime))." (Get-Process | Where-Object {$_.StartTime -ne $null} | Sort-Object StartTime -Descending | Select-Object -First 10 | Format-Table Name, Id, StartTime)
 
 Valjasta 10 "Arvuti kuupäev ja kellaaeg:" (Get-Date)
-
+```
 Väljung (png): ![image](https://github.com/user-attachments/assets/2a5407e3-d4ae-4fbe-b6f3-d2b8b94bda8f)![image](https://github.com/user-attachments/assets/851908d4-73e0-40c4-806c-c0c352620721)
 
 Väljund:
