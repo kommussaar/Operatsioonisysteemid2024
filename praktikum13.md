@@ -198,7 +198,7 @@ RuntimeBroker      8340 25.12.2024 21:14:12
 
 10.		Arvuti kuupäev ja kellaaeg::	12/25/2024 23:51:59
 ```
-Ülevaade skrptist: Skriptis kasutatakse funktsiooni valjasta, mis vastutab andmete töötlemise ja salvestamise eest. Selle põhieesmärk on:
+Ülevaade skriptist: Skriptis kasutatakse funktsiooni valjasta, mis vastutab andmete töötlemise ja salvestamise eest. Selle põhieesmärk on:
 
 Väljastada informatsioon PowerShelli konsoolile.
 Salvestada sama informatsioon faili valjund.txt
