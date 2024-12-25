@@ -4,9 +4,6 @@ Käesolevas praktikumis sain tuttavaks Windows PowerShell-iga (Microsofti ülesa
 
 Ülesanne:![image](https://github.com/user-attachments/assets/83d0d765-acbb-4ef7-a3ce-8c1ca0cb0099)
 
-
-Skript (png): ![image](https://github.com/user-attachments/assets/9a14d9ff-bc1b-4d0a-bdbd-ecbb69807ccf)
-
 Skript: 
 ```
 #$nr:	küsimuse number
@@ -57,7 +54,7 @@ Valjasta 9 "10 viimasena käivitatud protsessi (nimi, PID ja käivitamise aeg (S
 
 Valjasta 10 "Arvuti kuupäev ja kellaaeg:" (Get-Date)
 ```
-Väljung (png): ![image](https://github.com/user-attachments/assets/2a5407e3-d4ae-4fbe-b6f3-d2b8b94bda8f)![image](https://github.com/user-attachments/assets/851908d4-73e0-40c4-806c-c0c352620721)
+
 
 Väljund:
 ```
