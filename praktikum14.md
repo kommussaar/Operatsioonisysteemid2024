@@ -8,4 +8,5 @@
 
 Ülesanne 4: ![image](https://github.com/user-attachments/assets/dfe83f28-7c76-4d3f-9197-6d79a0af2bde)
 
-Ülesanne 5: 
+Ülesanne 5: ![image](https://github.com/user-attachments/assets/d5742296-7072-4d0e-b060-ff4a9d97c562)
+
