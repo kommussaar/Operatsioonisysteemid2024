@@ -1,5 +1,12 @@
 # Praktikum 14
 
+
+Käesolevas praktikumis õppisin Azure keskkonna näitel pilvetehnoloogiate katsetamist. Täpsemalt Windows 10 virtuaalmasina loominst, sellega ühendumist ja sinna peale WSL-i (Windows Subsystem for Linux) installimist. Tutvutud ja katsetatud sai ka **Proxy** **Jumping** tehnoloogiat. Allpool on näha pildid sooritatud ülesannetest. 
+
+Ülesanded: ![image](https://github.com/user-attachments/assets/319df889-9f66-4800-8b75-2acfc6a798fb)
+
+
+
 Ülesanne 1: ![image](https://github.com/user-attachments/assets/6e17a99f-e078-4aca-9137-eadd1c76958a)
 
 Ülesanne 2: ![image](https://github.com/user-attachments/assets/e57e0fe0-e3ff-4769-b8d8-8899c705e28b)
