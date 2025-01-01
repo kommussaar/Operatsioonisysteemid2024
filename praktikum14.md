@@ -10,3 +10,7 @@
 
 Ülesanne 5: ![image](https://github.com/user-attachments/assets/d5742296-7072-4d0e-b060-ff4a9d97c562)
 
+Ülesanne 6: ![image](https://github.com/user-attachments/assets/de53c8f4-f203-4f40-b662-f33fc423932a)
+![image](https://github.com/user-attachments/assets/bea1ecf9-b80b-4323-832f-c0c8f3a96f0e)
+![image](https://github.com/user-attachments/assets/e2681e1a-48b6-4e8e-9ab0-2981b25cbd4b)
+
