@@ -2,3 +2,4 @@
 ülesanne 4.3: ![image](https://github.com/user-attachments/assets/958b85dc-a905-42f9-abd6-549e123c19a4) ![image](https://github.com/user-attachments/assets/dba378e2-34bd-40aa-bcf2-1828857ffb58)
 ![image](https://github.com/user-attachments/assets/e153156e-ce58-4b2b-9f5d-58551fa1f84d)
 ülesanne 4.4: Esimene tegevus, mille jaoks on vaja SYSTEMi õigusi (ei piisa administraatori õigustest) on ***SetTimeZonePrivilege*** ehk siis ***ajavööndi muutmine***. Teine tegevus, mille jaoks on vaja SYSTEMi õigusi (ei piisa administraatori õigustest) on ***SeDebugPrivilege*** ehk ***progammide debuggimine(silumine)***.
+ülesanne 4.5: ![image](https://github.com/user-attachments/assets/aab58692-76dd-4be3-ad54-1ad475f5c24f)
