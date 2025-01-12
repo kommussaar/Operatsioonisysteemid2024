@@ -1,3 +1,8 @@
+# Praktikum 4:  Windowsi seadistamine ja turvalisus
+
+Käesolevas praktikumis tuvustin harjutusülesannete abil ülevaate Windowsi seadete ja põhiliste turvalisusega seotud tööriistadega, turvaseadetega, mitmekasutajasüsteemide turvamise ning Windows 11 muudatustega. Altpoolt leiab sooritatud ülesannete dokumentatsiooni.
+
+
 Ülesanded: ![image](https://github.com/user-attachments/assets/4ce6529a-4e74-4a77-8726-1afdce65f11e)
 
 
