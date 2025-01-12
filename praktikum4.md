@@ -9,8 +9,7 @@
 ülesanne 4.4: Esimene tegevus, mille jaoks on vaja SYSTEMi õigusi (ei piisa administraatori õigustest) on ***SetTimeZonePrivilege*** ehk siis ***ajavööndi muutmine***. Teine tegevus, mille jaoks on vaja SYSTEMi õigusi (ei piisa administraatori õigustest) on ***SeDebugPrivilege*** ehk ***progammide debuggimine(silumine)***.
 ülesanne 4.5: ![image](https://github.com/user-attachments/assets/aab58692-76dd-4be3-ad54-1ad475f5c24f)
 ülesanne 4.6: Microsofti arvates peaksin ***Viiruse- ja ohutõrje*** alamseadistuse juures häälestama OneDrive'i failitaastesuvandid lunavararünnaku korral.
-ülesanne 4.7: ![praktukim4_ülesanne7_pilt1](https://github.com/user-attachments/assets/73ee13a1-3033-47e9-9d95-fe69b612e51e)
-![praktikum4_ülesanne7_pilt2](https://github.com/user-attachments/assets/c35b2dd3-bc5c-4988-abfd-fe3dbf2b2b2b)
+ülesanne 4.7:![praktikum4_ülesanne7_pilt2](https://github.com/user-attachments/assets/c35b2dd3-bc5c-4988-abfd-fe3dbf2b2b2b)
 ülesanne 4.8: ![image](https://github.com/user-attachments/assets/45129232-7dfe-44d7-907c-0f63277fac66)
 ülesanne 4.9: ![image](https://github.com/user-attachments/assets/a910fd13-fbf6-4253-a3c7-104a96357407)
 ülesanne 4.10: ![praktikum4_ül10](https://github.com/user-attachments/assets/c624656b-a752-4ce2-bd4d-afea13cd8423)
