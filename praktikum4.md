@@ -11,7 +11,7 @@ Käesolevas praktikumis tuvustin harjutusülesannete abil ülevaate Windowsi sea
 ülesanne 4.2: ![image](https://github.com/user-attachments/assets/74899083-ea6b-4291-a8dd-5772b989b697)
 ülesanne 4.3: ![image](https://github.com/user-attachments/assets/958b85dc-a905-42f9-abd6-549e123c19a4) ![image](https://github.com/user-attachments/assets/dba378e2-34bd-40aa-bcf2-1828857ffb58)
 ![image](https://github.com/user-attachments/assets/e153156e-ce58-4b2b-9f5d-58551fa1f84d)
-ülesanne 4.4: Esimene tegevus, mille jaoks on vaja SYSTEMi õigusi (ei piisa administraatori õigustest) on ***SetTimeZonePrivilege*** ehk siis ***ajavööndi muutmine***. Teine tegevus, mille jaoks on vaja SYSTEMi õigusi (ei piisa administraatori õigustest) on ***SeDebugPrivilege*** ehk ***progammide debuggimine(silumine)***.
+ülesanne 4.4: Tegevus, mille jaoks on tehniliselt vaja SYSTEMi õigusi (ei piisa administraatori õigustest) on ***SetCreateSymbolicLinkPrivilege*** ehk siis ***sümboolsete linkide loomine***.
 ülesanne 4.5: ![image](https://github.com/user-attachments/assets/aab58692-76dd-4be3-ad54-1ad475f5c24f)
 ülesanne 4.6: Microsofti arvates peaksin ***Viiruse- ja ohutõrje*** alamseadistuse juures häälestama OneDrive'i failitaastesuvandid lunavararünnaku korral.
 ülesanne 4.7:![praktikum4_ülesanne7_pilt2](https://github.com/user-attachments/assets/c35b2dd3-bc5c-4988-abfd-fe3dbf2b2b2b)
