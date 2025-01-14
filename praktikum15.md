@@ -3,3 +3,4 @@ Pilt tarkvarast  libgdbm-compat4:amd64: ![image](https://github.com/user-attachm
 Millegipärast ei funktsioneerinud käsurida nii nagu pidi. Ise arvan, et see võib olla tinigtud sellest, et käsu ***dpkg -l*** väljundist "väljumiseks" kasutasin CTRL + C, ja siis tänu sellele ei ole pildilt näha esimest käsku ***sudo apt purge libgdbm-compat4:amd64***. Samuti on selle käsu väljund segamini allpool käsu ***sudo apt autoremove*** ja tema väljundiga. Lisaks näen ka, et eemaldati oodatust palju rohkem pakette, mis näitab kõigepealt asjade katsetamise kasulikkust laboritingimustest.
 ![praks15_ül1_pilt1](https://github.com/user-attachments/assets/2fed4775-e868-4ce0-9c15-a381aaf06cbd)
 ![praks15_ül1_pilt2](https://github.com/user-attachments/assets/cd70682f-450b-4092-88fd-c71d721b5f15)
+Ülesanne 2: ![image](https://github.com/user-attachments/assets/7b67d20e-193a-403d-a58e-8e34367759fe)
