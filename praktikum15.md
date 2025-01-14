@@ -5,3 +5,4 @@ Millegipärast ei funktsioneerinud käsurida nii nagu pidi. Ise arvan, et see v�
 ![praks15_ül1_pilt2](https://github.com/user-attachments/assets/cd70682f-450b-4092-88fd-c71d721b5f15)
 Ülesanne 2: ![image](https://github.com/user-attachments/assets/7b67d20e-193a-403d-a58e-8e34367759fe)
 ülesanne 3: Süsteemi "%Path%" märgitud kaustas olev fail käivitatakse, sest kasutaja keskkonnamuutuja %Path% on nimekirjas süsteemi omast tagapool.
+ülesanne 4: Valitud teenus: ******
