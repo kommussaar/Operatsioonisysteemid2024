@@ -2,6 +2,9 @@
 
 Käesolevas praktikumis uurisin kuidas oma arvutit (operatsioonisüsteemi) optimeerida ja teha ka turvalisemaks. Tutuvusin keskkonnamuutujatega nii Linux Debian-i kui ka Windows-i operatsioonisüsteemis. Uurisin teenuste kohta, tegelesin tarkvara haldusega ning lõpuks analüüsisin pilvetehnoloogia kulusid. Allpool on tulemus. 
 
+***Ülesanded***: ![image](https://github.com/user-attachments/assets/a35a0c4a-9161-45a0-afa1-4364db6189a3)
+
+
 ***Ülesanne 1***:Tarkvara mis tundub üleliigne olevat: Apache2. ***Mis on Apache2?*** Apache2 on laialdaselt kasutatav avatud lähtekoodiga veebiserveri tarkvara. Selle põhifunktsioon on veebilehtede (HTML-failide, piltide, skriptide jne) teenindamine kasutajatele, kes neid veebibrauseri kaudu küsivad. Apache2 toetab erinevaid mooduleid, mis pakuvad täiendavat funktsionaalsust, nagu SSL, autentimine, URL-i ümberkirjutamine jne. Kasutatakse sageli veebisaitide ja veebirakenduste majutamiseks. ***Miks ta on minu arvates ebavajalik.*** Esiteks, kui süsteem ei vaja veebisaitide või veebirakenduste majutamist (nt isiklik masin või tarkvara, mis ei nõua veebiserverit). Teiseks võivad kasutajad eelistada muid tarkvarasid, mis ei vaja üldse veebiserverit (nt andmebaasiserverid või failide jagamise tarkvara). Lisaks võib Apache2 olla turvaprobleemiks, kui jääb näiteks tööle ilma vajaduseta.
 ![image](https://github.com/user-attachments/assets/7d87485e-1318-4fb0-b1e7-ae58bb18fec8)
 ![image](https://github.com/user-attachments/assets/74954ce5-5505-4276-ba77-dcf3d3187085)
