@@ -1,5 +1,6 @@
-# Praktikum 15
+# Praktikum 15 Teenused ja optimeerimine
 
+Käesolevas praktikumis 
 
 Tarkvara mis tundub üleliigne olevat: libgdbm-compat4:amd64. ***Mis on libgdbm-compat4:amd64?*** väike tarkvararaamatukogu, mis aitab vanematel programmidel kasutada GNU database manager-i (tööriist võtme-väärtuse andmete haldamiseks, nagu mini-andmebaas) vanema versiooni andmebaasirutiine. See toimib kui "ühilduvuskiht" vanema tarkvara jaoks, mida pole uuemate versioonidega töötamiseks uuendatud. ***Miks ta on minu arvates ebavajalik:***kuna leian, et mul ei ole vaja jooksutada selliseid vanu programme või rakendusi, mis tuginevad just sellele spetsiifilisele teegile. Internetist leian ka, et Kaasaegsed rakendused ja andmebaasihaldurid kasutavad tavaliselt uuemaid ja optimaalsemaid andmebaasisüsteeme.
 Pilt tarkvarast  libgdbm-compat4:amd64: ![image](https://github.com/user-attachments/assets/daac4048-2dd9-4953-86ea-2ebd796dfdd6)
