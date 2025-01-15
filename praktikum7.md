@@ -1,10 +1,14 @@
-Miks andmekandjad vajavad lähtestamist?
+# Praktikum 7: Haakimine
+
+Käesolevat praktikumi alustasin, kuid jäi pooleli. Ära olen teinud ülesanded 1 ja 2. Need on leitavad altpoolt.
+
+***Ülesanne 1***: Miks andmekandjad vajavad lähtestamist?
 
 Andmekandjate, nagu kõvaketaste ja SSD-de, lähtestamine on vajalik, et neid saaks arvutis ära tunda ja neile faile salvestada. Uus andmekandja on justkui tühi leht, millel puuduvad failide salvestamiseks vajalikud struktuurid ja juhised. Lähtestamisel muudab arvuti ketta äratuntavaks ja valmistab ette selle kasutamiseks.
 
 Lähtestamisel valitakse ka partitsioonitabeli tüüp (näiteks GPT-GUID Partition Table - GUID-partitsioonitabel)  või MBR-Master Boot Record - põhikäivitussektor), mis määrab ära, kuidas kettal olevaid sektsioone ehk partitsioone hallatakse. Ilma lähtestamiseta ei tunne operatsioonisüsteem ketast üldse ära, mistõttu jääks see salvestusruum kasutuskõlbmatuks.
 
-Millised on GPT kasutamise eelised võrreldes MBRiga? 
+***Ülesanne 2***: Millised on GPT kasutamise eelised võrreldes MBRiga? 
 
 Toetab suuremaid kettaid: GPT saab hakkama ketastega, mis on suuremad kui 2 TB. MBR-il on 2 TB piir, mis tähendab, et GPT sobib paremini tänapäevaste suure mahutavusega ketaste jaoks.
 
