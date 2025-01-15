@@ -1,3 +1,6 @@
+# Praktikum 15
+
+
 Tarkvara mis tundub üleliigne olevat: libgdbm-compat4:amd64. ***Mis on libgdbm-compat4:amd64?*** väike tarkvararaamatukogu, mis aitab vanematel programmidel kasutada GNU database manager-i (tööriist võtme-väärtuse andmete haldamiseks, nagu mini-andmebaas) vanema versiooni andmebaasirutiine. See toimib kui "ühilduvuskiht" vanema tarkvara jaoks, mida pole uuemate versioonidega töötamiseks uuendatud. ***Miks ta on minu arvates ebavajalik:***kuna leian, et mul ei ole vaja jooksutada selliseid vanu programme või rakendusi, mis tuginevad just sellele spetsiifilisele teegile. Internetist leian ka, et Kaasaegsed rakendused ja andmebaasihaldurid kasutavad tavaliselt uuemaid ja optimaalsemaid andmebaasisüsteeme.
 Pilt tarkvarast  libgdbm-compat4:amd64: ![image](https://github.com/user-attachments/assets/daac4048-2dd9-4953-86ea-2ebd796dfdd6)
 Millegipärast ei funktsioneerinud käsurida nii nagu pidi. Ise arvan, et see võib olla tinigtud sellest, et käsu ***dpkg -l*** väljundist "väljumiseks" kasutasin CTRL + C, ja siis tänu sellele ei ole pildilt näha esimest käsku ***sudo apt purge libgdbm-compat4:amd64***. Samuti on selle käsu väljund segamini allpool käsu ***sudo apt autoremove*** ja tema väljundiga. Lisaks näen ka, et eemaldati oodatust palju rohkem pakette, mis näitab kõigepealt asjade katsetamise kasulikkust laboritingimustest.
